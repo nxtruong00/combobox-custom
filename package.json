@@ -1,0 +1,20 @@
+{
+  "name": "combobox-custom",
+  "version": "1.0.0",
+  "description": "A dependency to custom a combox with input and output in angular",
+  "main": "combobox.component.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "combobox"
+  ],
+  "author": "Wiz_Nguyen",
+  "license": "ISC",
+  "dependencies": {
+    "@angular/cli": "^12.2.16",
+    "@angular/core": "^17.2.3",
+    "@angular/forms": "^17.2.3",
+    "ngx-toastr": "^18.0.0"
+  }
+}
