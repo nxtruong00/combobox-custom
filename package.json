@@ -9,6 +9,10 @@
   "keywords": [
     "combobox"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nxtruong00/combobox-custom"
+  },
   "author": "Wiz_Nguyen",
   "license": "ISC",
   "dependencies": {
