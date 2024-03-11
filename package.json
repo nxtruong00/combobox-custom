@@ -1,6 +1,6 @@
 {
   "name": "combobox-custom",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A dependency to custom a combox with input and output in angular",
   "main": "combobox.component.ts",
   "scripts": {

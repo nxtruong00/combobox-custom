@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="aa5fb6ab-e108-460c-a150-7a87ad45c8e4" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@angular-devkit/architect/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@angular-devkit/architect/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@angular-devkit/core/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@angular-devkit/core/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@angular-devkit/schematics/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@angular-devkit/schematics/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@angular/cli/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@angular/cli/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@angular/core/esm2022/rxjs-interop/src/to_observable.mjs" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@angular/core/esm2022/rxjs-interop/src/to_observable.mjs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@angular/core/esm2022/src/application/application_ref.mjs" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@angular/core/esm2022/src/application/application_ref.mjs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@angular/core/esm2022/src/authoring/input/input_type_checking.mjs" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@angular/core/esm2022/src/authoring/input/input_type_checking.mjs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@angular/core/esm2022/src/authoring/model/model_signal.mjs" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@angular/core/esm2022/src/authoring/model/model_signal.mjs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@angular/core/esm2022/src/di/interface/provider.mjs" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@angular/core/esm2022/src/di/interface/provider.mjs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@angular/core/esm2022/src/di/metadata.mjs" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@angular/core/esm2022/src/di/metadata.mjs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@angular/core/esm2022/src/di/r3_injector.mjs" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@angular/core/esm2022/src/di/r3_injector.mjs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@angular/core/esm2022/src/event_emitter.mjs" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@angular/core/esm2022/src/event_emitter.mjs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@angular/core/esm2022/src/render3/after_render_hooks.mjs" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@angular/core/esm2022/src/render3/after_render_hooks.mjs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@angular/core/esm2022/src/render3/component_ref.mjs" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@angular/core/esm2022/src/render3/component_ref.mjs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@angular/core/esm2022/src/render3/instructions/listener.mjs" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@angular/core/esm2022/src/render3/instructions/listener.mjs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@angular/core/esm2022/src/render3/instructions/render.mjs" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@angular/core/esm2022/src/render3/instructions/render.mjs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@angular/core/esm2022/src/render3/node_manipulation.mjs" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@angular/core/esm2022/src/render3/node_manipulation.mjs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@angular/core/esm2022/src/render3/reactivity/effect.mjs" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@angular/core/esm2022/src/render3/reactivity/effect.mjs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@angular/core/esm2022/src/render3/reactivity/signal.mjs" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@angular/core/esm2022/src/render3/reactivity/signal.mjs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@angular/core/esm2022/src/render3/view_manipulation.mjs" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@angular/core/esm2022/src/render3/view_manipulation.mjs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@angular/core/esm2022/src/util/assert.mjs" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@angular/core/esm2022/src/util/assert.mjs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@angular/core/esm2022/src/version.mjs" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@angular/core/esm2022/src/version.mjs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@angular/core/esm2022/testing/src/logger.mjs" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@angular/core/esm2022/testing/src/logger.mjs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@angular/core/esm2022/testing/src/test_bed_compiler.mjs" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@angular/core/esm2022/testing/src/test_bed_compiler.mjs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@angular/core/fesm2022/core.mjs" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@angular/core/fesm2022/core.mjs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@angular/core/fesm2022/core.mjs.map" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@angular/core/fesm2022/core.mjs.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@angular/core/fesm2022/primitives/signals.mjs" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@angular/core/fesm2022/primitives/signals.mjs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@angular/core/fesm2022/rxjs-interop.mjs" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@angular/core/fesm2022/rxjs-interop.mjs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@angular/core/fesm2022/rxjs-interop.mjs.map" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@angular/core/fesm2022/rxjs-interop.mjs.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@angular/core/fesm2022/testing.mjs" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@angular/core/fesm2022/testing.mjs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@angular/core/fesm2022/testing.mjs.map" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@angular/core/fesm2022/testing.mjs.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@angular/core/index.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@angular/core/index.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@angular/core/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@angular/core/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@angular/core/primitives/signals/index.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@angular/core/primitives/signals/index.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@angular/core/rxjs-interop/index.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@angular/core/rxjs-interop/index.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@angular/core/schematics/migrations/block-template-entities/bundle.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@angular/core/schematics/migrations/block-template-entities/bundle.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@angular/core/schematics/migrations/block-template-entities/bundle.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@angular/core/schematics/migrations/block-template-entities/bundle.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@angular/core/schematics/ng-generate/control-flow-migration/bundle.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@angular/core/schematics/ng-generate/control-flow-migration/bundle.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@angular/core/schematics/ng-generate/control-flow-migration/bundle.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@angular/core/schematics/ng-generate/control-flow-migration/bundle.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@angular/core/schematics/ng-generate/standalone-migration/bundle.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@angular/core/schematics/ng-generate/standalone-migration/bundle.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@angular/core/schematics/ng-generate/standalone-migration/bundle.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@angular/core/schematics/ng-generate/standalone-migration/bundle.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@angular/core/testing/index.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@angular/core/testing/index.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@angular/forms/esm2022/src/directives.mjs" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@angular/forms/esm2022/src/directives.mjs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@angular/forms/esm2022/src/directives/abstract_form_group_directive.mjs" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@angular/forms/esm2022/src/directives/abstract_form_group_directive.mjs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@angular/forms/esm2022/src/directives/checkbox_value_accessor.mjs" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@angular/forms/esm2022/src/directives/checkbox_value_accessor.mjs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@angular/forms/esm2022/src/directives/control_value_accessor.mjs" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@angular/forms/esm2022/src/directives/control_value_accessor.mjs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@angular/forms/esm2022/src/directives/default_value_accessor.mjs" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@angular/forms/esm2022/src/directives/default_value_accessor.mjs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@angular/forms/esm2022/src/directives/ng_control_status.mjs" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@angular/forms/esm2022/src/directives/ng_control_status.mjs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@angular/forms/esm2022/src/directives/ng_form.mjs" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@angular/forms/esm2022/src/directives/ng_form.mjs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@angular/forms/esm2022/src/directives/ng_model.mjs" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@angular/forms/esm2022/src/directives/ng_model.mjs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@angular/forms/esm2022/src/directives/ng_model_group.mjs" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@angular/forms/esm2022/src/directives/ng_model_group.mjs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@angular/forms/esm2022/src/directives/ng_no_validate_directive.mjs" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@angular/forms/esm2022/src/directives/ng_no_validate_directive.mjs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@angular/forms/esm2022/src/directives/number_value_accessor.mjs" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@angular/forms/esm2022/src/directives/number_value_accessor.mjs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@angular/forms/esm2022/src/directives/radio_control_value_accessor.mjs" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@angular/forms/esm2022/src/directives/radio_control_value_accessor.mjs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@angular/forms/esm2022/src/directives/range_value_accessor.mjs" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@angular/forms/esm2022/src/directives/range_value_accessor.mjs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@angular/forms/esm2022/src/directives/reactive_directives/form_control_directive.mjs" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@angular/forms/esm2022/src/directives/reactive_directives/form_control_directive.mjs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@angular/forms/esm2022/src/directives/reactive_directives/form_control_name.mjs" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@angular/forms/esm2022/src/directives/reactive_directives/form_control_name.mjs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@angular/forms/esm2022/src/directives/reactive_directives/form_group_directive.mjs" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@angular/forms/esm2022/src/directives/reactive_directives/form_group_directive.mjs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@angular/forms/esm2022/src/directives/reactive_directives/form_group_name.mjs" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@angular/forms/esm2022/src/directives/reactive_directives/form_group_name.mjs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@angular/forms/esm2022/src/directives/select_control_value_accessor.mjs" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@angular/forms/esm2022/src/directives/select_control_value_accessor.mjs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@angular/forms/esm2022/src/directives/select_multiple_control_value_accessor.mjs" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@angular/forms/esm2022/src/directives/select_multiple_control_value_accessor.mjs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@angular/forms/esm2022/src/directives/validators.mjs" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@angular/forms/esm2022/src/directives/validators.mjs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@angular/forms/esm2022/src/form_builder.mjs" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@angular/forms/esm2022/src/form_builder.mjs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@angular/forms/esm2022/src/form_providers.mjs" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@angular/forms/esm2022/src/form_providers.mjs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@angular/forms/esm2022/src/version.mjs" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@angular/forms/esm2022/src/version.mjs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@angular/forms/fesm2022/forms.mjs" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@angular/forms/fesm2022/forms.mjs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@angular/forms/fesm2022/forms.mjs.map" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@angular/forms/fesm2022/forms.mjs.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@angular/forms/index.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@angular/forms/index.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@angular/forms/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@angular/forms/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@schematics/angular/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@schematics/angular/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="TypeScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2dHH8jgZdDbUsDbWuwZRyweEnP5" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/My projects/advanced-data-analytics",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "project.kotlinCompiler",
+    "ts.external.directory.path": "C:\\Users\\Admin\\AppData\\Local\\JetBrains\\Toolbox\\apps\\IDEA-U\\ch-0\\233.14475.28\\plugins\\javascript-impl\\jsLanguageServicesImpl\\external",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\My projects\combobox-custom-dropdown" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="combobox-custom-dropdown" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="combobox-custom-dropdown" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="aa5fb6ab-e108-460c-a150-7a87ad45c8e4" name="Changes" comment="" />
+      <created>1709657925478</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1709657925478</updated>
+      <workItem from="1709657926561" duration="3276000" />
+      <workItem from="1710004760199" duration="458000" />
+      <workItem from="1710005225185" duration="1146000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
